@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Jesús Antonio Ramírez</h1>
+<h1 align="center">😼 ¡Hola! Soy Jesús Antonio Ramírez</h1>
 
 <h3 align="center">Front-End Developer en formación constante · Apasionado por el código limpio, la experiencia de usuario y el crecimiento profesional</h3>
 
