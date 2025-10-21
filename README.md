@@ -37,7 +37,6 @@ Me interesa trabajar en proyectos donde pueda aportar, aprender y colaborar con 
 
 ## 🚀 Proyectos Destacados
 
-- 📚 [EduZona](https://github.com/JesusAntonioRH/EduZona): Plataforma educativa hecha con JavaScript.
 - 📝 [todoo-app](https://github.com/JesusAntonioRH/todoo-app): App de tareas simple en TypeScript + React.
 - 🍔 [menu-burger](https://github.com/JesusAntonioRH/menu-burger): Menú animado responsive con Astro.
 
